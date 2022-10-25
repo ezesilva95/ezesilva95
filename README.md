@@ -7,4 +7,4 @@ My name is Ezequiel Silva and I am currently learning programming in Holberton S
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezesilva95)](https://git.io/streak-stats)
 
-[![Ezequiel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=ezesilva95&show_icons=true&theme=radical)]
+[![Ezequiel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=ezesilva95&show_icons=true&theme=tokyonight)]
