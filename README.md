@@ -10,3 +10,5 @@ My name is Ezequiel Silva and I am currently learning programming in Holberton S
 ![Ezequiel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=ezesilva95&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezesilva95&theme=tokyonight&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
